@@ -1,0 +1,7 @@
+bleak==3.0.2
+customtkinter==5.2.2
+darkdetect==0.8.0
+dbus-fast==5.0.16
+et_xmlfile==2.0.0
+openpyxl==3.1.5
+packaging==26.2
